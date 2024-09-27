@@ -1,0 +1,49 @@
+# Кэш Gradle
+.gradle/
+build/
+**/build/
+.idea/
+local.properties
+
+# IntelliJ IDEA project files
+*.iml
+*.hprof
+
+# Android Studio specific files
+.idea/workspace.xml
+.idea/libraries/
+.idea/caches/
+.idea/modules.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/httpRequests
+
+# Android Studio build folders
+app/build/
+
+.cxx/
+.externalNativeBuild/
+
+/gradle/
+/gradlew
+/gradlew.bat
+
+*.log
+*.temp
+*.tmp
+*.swp
+*.lock
+*.bak
+
+/fastlane/
+*/.gradle/
+/test-results/
+
+/gradle/wrapper/gradle-wrapper.properties
+
+*.keystore
+
+.DS_Store
+# Project exclude paths
+/app/
