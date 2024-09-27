@@ -45,3 +45,4 @@ app/build/
 *.keystore
 
 .DS_Store
+!gradle/libs.versions.toml
